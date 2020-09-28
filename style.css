@@ -1,0 +1,18 @@
+.header{
+    margin-left: 150px;
+    margin-top: -45px;
+    width: 200px;
+    display: flex;
+    float: left;
+}
+.footer{
+    float: left;
+    display: flex;
+    margin-left: 80px;
+    width: 160px;
+}
+.footer_2_part{
+    margin-left: 1080px;
+    margin-right: 10px;
+    background-color: #ffe7d1;
+}
